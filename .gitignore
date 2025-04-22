@@ -1,0 +1,7 @@
+*/__pycache__/
+*/yolov5s.pt
+vid/
+*/pic*
+output.wav
+*dump*
+*command_record*
